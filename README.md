@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hello Im Prince Yes My first name is prince
 
-<!--
-**mcprince147/mcprince147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I used to create plugins core etc but i still
+Learning untill i will know everything about php
 
-Here are some ideas to get you started:
+I liked Coding So Much
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Im Currently Learning
+ 🥉PHP
+ 🥈css
+ ✨js
+ 🎉html
+
+## Experience
+ I Have 1 Year Experiece of Html and PHP with
+ Experience of js for 3 months
+
+## Working on
+ 
+ Asperia\CrystalPvP - Owner\Founder
+ 
+## Nationality
+ 🇵🇭 Im From Phillipines
+
+## Languages
+![mcprince147 Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=mcprince147&show_icons=true&theme=radical)
+
+## Statistics
+[Top Langs](https://github-readme-stats.vercel.app/api?username=mcprince147&count_private=true&show_icons=true&theme=radical)
