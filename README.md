@@ -3,6 +3,9 @@
 I used to create plugins core etc but i still
 Learning untill i will know everything about php
 
+Im also planning to make a game
+
+
 I liked Coding So Much
 
 ### Im Currently Learning
